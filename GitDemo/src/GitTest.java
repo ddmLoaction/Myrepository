@@ -2,8 +2,12 @@
 public interface GitTest {
 	
 /*
- * 查看方法
+ * 鏌ョ湅鏂规硶
  */	
 	public void select();
+	
+	//淇敼鏂规硶
+	public void update();
+	
 
 }
