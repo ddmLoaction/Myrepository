@@ -12,5 +12,8 @@ public interface GitTest {
 	//删除方法 
 	public void delete();
 	
+	//李四 删除id
+	public void deleteById();
+	
 
 }
