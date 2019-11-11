@@ -9,7 +9,7 @@ public interface GitTest {
 	//修改方法
 	public void update();
 	
-	//删除方法
+	//删除方法 
 	public void delete();
 	
 
