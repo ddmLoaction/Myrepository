@@ -12,6 +12,8 @@ public interface GitTest {
 	//删除方法 
 	public void delete();
 	
+	//分支aaa
+	public void aa();
 	
 	
 
